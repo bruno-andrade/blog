@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1> blog </h1>
 
 <h5>Projeto de um site de blog feito para aprendizado</h5>
@@ -10,7 +9,7 @@ Ferramentas utilizadas:
 <ul>
 <li>Figma</li>
 <li>HTML</li>
-<li>CSS</li>
+<li>SCSS</li>
 <li>Bootstrap</li>
 <li>JavaScript</li>
 <li>JQuery</li>
@@ -18,4 +17,3 @@ Ferramentas utilizadas:
 =======
 # blog
 Projeto de um site de blog feito para aprendizado
->>>>>>> origin/main
