@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1> blog </h1>
 
 <h5>Projeto de um site de blog feito para aprendizado</h5>
@@ -14,3 +15,7 @@ Ferramentas utilizadas:
 <li>JavaScript</li>
 <li>JQuery</li>
 </ul>
+=======
+# blog
+Projeto de um site de blog feito para aprendizado
+>>>>>>> origin/main
